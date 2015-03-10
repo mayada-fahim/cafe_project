@@ -1,0 +1,13 @@
+.navbar-default
+{
+	background-color: #E48743;
+	color: black;
+}
+.top{
+	margin-top:200px;
+}
+
+.navbar-nav li
+{
+	color: black;
+}
